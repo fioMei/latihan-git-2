@@ -11,5 +11,10 @@
   <p>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore adipisci atque quas nemo autem quo, labore mollitia optio, quis ducimus alias quasi reprehenderit consequuntur sapiente vero iusto illum voluptates explicabo?
   </p>
+
+  <ul>
+    <li>satu</li>
+    <li>dua</li>
+  </ul>
 </body>
 </html>
